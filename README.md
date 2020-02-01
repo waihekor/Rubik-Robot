@@ -1,4 +1,4 @@
 # Rubik-Robot（解魔方机器人）
-![image](https://github.com/waihekor/Rubik-Robot/blob/master/Photos/Robot/5.jpg)
+![image](https://github.com/waihekor/EKF_AHRS/blob/master/result/pitch.png)
 
  
