@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\Project\Rubik Robot\开源计划\源代码\Cube Robot\USER\Cube Robot.uvproj
+Project File Date:  05/31/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling timer.c...
+linking...
+Program Size: Code=23688 RO-data=464 RW-data=104 ZI-data=11384  
+FromELF: creating hex file...
+".\Cube Robot.axf" - 0 Errors, 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=23688 RO-data=464 RW-data=104 ZI-data=11384  
+FromELF: creating hex file...
+".\Cube Robot.axf" - 0 Errors, 0 Warning(s).

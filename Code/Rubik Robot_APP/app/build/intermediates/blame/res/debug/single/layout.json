@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\manage.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\manage.xml"
+    },
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "H:\\Rubik Robot_APP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "H:\\Rubik Robot_APP\\app\\src\\main\\res\\layout\\custom_title.xml"
+    }
+]
